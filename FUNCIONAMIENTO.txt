@@ -1,0 +1,12 @@
+EJECUCIÓN:
+
+1. Ver que se tiene la versión actualizada de Python
+2. Ver que se tiene correctamente importado todo (Panda sobretodo)
+3. Ir a populate.py
+4. Run "populate.py" con los datos que queramos poner solamente en:
+	- generar_universidades ()
+	- generar_estudiantes (maximo, min)
+
+5. Dejar ejecutando hasta que se generen todos los datos completamente
+	**cuanta más alta la cantidad de que se ponga, más se tardará
+	  en generar estos datos debido a una mala implementación

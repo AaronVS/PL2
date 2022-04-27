@@ -9,7 +9,7 @@
 -- 
 -- object: new_database | type: DATABASE --
 -- DROP DATABASE IF EXISTS new_database;
---CREATE DATABASE new_database;
+-- CREATE DATABASE new_database;
 -- ddl-end --
 
 
